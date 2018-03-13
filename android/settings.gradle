@@ -1,0 +1,3 @@
+rootProject.name = 'duoMobile'
+
+include ':app'
